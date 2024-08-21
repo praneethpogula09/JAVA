@@ -16,7 +16,7 @@ public class Loops {
 
         */
 
-        System.out.print("enter the Tale Number:    ");
+        System.out.print("enter the Multiplication Table Number:    ");
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
 
